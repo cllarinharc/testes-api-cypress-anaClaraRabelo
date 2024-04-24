@@ -1,0 +1,22 @@
+{
+  "bodyRequestPost": {
+    "movieId": 1433,
+    "score": 5,
+    "reviewText": "Bom"
+  },
+  "bodyRequestPostMovieInvalid": {
+    "movieId": 9999999,
+    "score": 5,
+    "reviewText": "Bom"
+  },
+  "bodyRequestGet": [
+    {
+      "id": 461,
+      "movieId": 1433,
+      "movieTitle": "Harry Potter e a Pedra Filosofal",
+      "score": 5,
+      "reviewText": "Bom",
+      "reviewType": 0
+    }
+  ]
+}
