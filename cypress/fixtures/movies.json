@@ -1,0 +1,21 @@
+{
+  "bodyRequestPost": {
+    "title": "Harry Potter e a Pedra Filosofal",
+    "genre": "Aventura",
+    "description": "Um menino que sobreviveu.",
+    "durationInMinutes": 159,
+    "releaseYear": 2001
+  },
+  "bodyRequestPut": {
+    "title": "Harry Potter e Câmera Secreta",
+    "genre": "Mitologia",
+    "description": "Um menino que sobreviveu as cobras.",
+    "durationInMinutes": 134,
+    "releaseYear": 2002
+  },
+  "bodyResposeErro": {
+    "message": "Movie not found",
+    "error": "Not Found",
+    "statusCode": 404
+  }
+}
