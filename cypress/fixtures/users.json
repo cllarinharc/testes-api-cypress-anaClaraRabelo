@@ -1,0 +1,31 @@
+{
+  "bodyRequestPost": {
+    "name": "ana5",
+    "email": "ana5@ana.com",
+    "password": "password123"
+  },
+  "bodyResponsePost": {
+    "name": "ana5",
+    "email": "ana5@ana.com",
+    "type": 0,
+    "active": true
+  },
+  "bodyRequestPostLogin": {
+    "email": "ana5@ana.com",
+    "password": "password123"
+  },
+  "bodyRequestPut": {
+    "id": 3665,
+    "name": "ana5",
+    "email": "ana5@ana.com",
+    "type": 1,
+    "active": true
+  },
+  "bodyRequestGet":[{
+    "id": 3665,
+    "name": "ana5",
+    "email": "ana5@ana.com",
+    "type": 1,
+    "active": true
+  }]
+}
